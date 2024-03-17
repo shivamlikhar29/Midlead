@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ul, ol {
+    list-style: revert;
+  }
+  .wt{
+  }
+}
+/* const images = [
+  { url: "https://coconest.in/wp-content/uploads/2024/02/2.png" },
+  { url: "https://coconest.in/wp-content/uploads/2024/02/3.png" },
+  { url: "https://coconest.in/wp-content/uploads/2024/02/5-1.png" },
+]; */
